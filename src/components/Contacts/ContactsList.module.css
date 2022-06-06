@@ -1,0 +1,15 @@
+.contacts__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid teal;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.ul__list {
+     margin: 30px auto;
+    list-style: none;
+    width: 600px;
+     
+}
